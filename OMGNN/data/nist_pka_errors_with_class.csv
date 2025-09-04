@@ -1,0 +1,16 @@
+Ligand Class,SMILES,Ligand
+Pyridines (azines),Cc1cncc(C)c1,"3,5-Dimethylpyridine (3,5-Lutidine)"
+Pyridines (azines),COc1cc(C)nc(C)c1,"2,6-Dimethyl-4-methoxypyridine"
+Pyridines (azines),Cc1ccnc(C)c1,"2,4-Dimethylpyridine (2,4-Lutidine)"
+Pyridines (azines),CC(=O)c1c(C)cc(C)nc1C,"3-Acetyl-2,4,6-trimethylpyridine"
+Pyridines (azines),CCOC(=O)c1cc(C)nc(C)c1,"2,6-Dimethylpyridine-4-carboxylic acid ethyl ester"
+Pyridines (azines),Cc1ccc(C)nc1,"2,5-Dimethylpyridine (2,5-Lutidine)"
+Pyridines (azines),CCc1ccc(C)nc1,5-Ethyl-2-methylpyridine
+Pyridines (azines),CCN1C=CC(=O)C(=C1C)O,"1-Ethyl-2-methyl-3,4-dihydroxypyridine (1-Ethyl-2-methyl-3-hydroxy-1,4-dihydropyridin-4-one)"
+Pyridines (azines),CCc1cnccc1C,3-Ethyl-4-methylpyridine
+Pyridines (azines),Cc1cc(C)nc(C)c1,"2,4,6-Trimethylpyridine (2,4,6-Collidine)"
+Pyridines (azines),c1ccc(cc1)c2ccncc2,4-Phenylpyridine
+Pyridines (azines),CCCCCCN1C=CC(=O)C(=C1C)O,"1-Hexyl-2-methyl-3,4-dihydroxypyridine (1-Hexyl-2-methyl-3-hydroxy-1,4-dihydropyridin-4-one)"
+Pyridines (azines),c1ccc(cc1)c2cccnc2,3-Phenylpyridine
+Pyridines (azines),c1ccnnc1,"1,2-Diazine (Pyridazine)"
+Quinolines,[Na+].[Na+].[O-][S](=O)(=O)c1ccc(N\N=C\2C=C(c3cccnc3C2=O)[S]([O-])(=O)=O)c4ccccc14,8-Hydroxy-7-(4-sulfo-1-naphthylazo)quinoline-5-sulfonic acid (SNAZOXS)

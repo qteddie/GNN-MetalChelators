@@ -1,0 +1,11 @@
+# Large files
+data/train/*.pt
+data/valid/*.pt
+data/test/*.pt
+data/dataloader.pt
+data/dataloader_14.pt
+*.pt
+
+# Folders
+output/
+data/

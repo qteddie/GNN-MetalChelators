@@ -1,0 +1,96 @@
+# MetalGCN Unified Configuration
+# Version control through config selection
+
+# Available configurations
+metal_ver1:
+  paths:
+    output_dir: "../output/metal_ver1"
+  model:
+    version: "metal_ver1"
+    output_size: 1
+    num_features: 66
+    hidden_size: 384
+    dropout: 0.0
+    depth: 4
+    heads: 8
+    max_ligands: 3
+    metal_emb_dim: 8
+
+  training:
+    num_epochs: 2
+    batch_size: 4
+    lr: 0.0005  # 5e-4
+    weight_decay: 0.00005  # 5e-5
+    anneal_rate: 0.9
+    huber_beta: 0.5
+    reg_weight: 5.0
+    seed: 42
+
+  data:
+    metal_csv: "../data/Metal_t15_T25_I0.1_E3_m10_clean.csv"
+    dataloader_path: "../data/dataloader.pt"
+    data_dir: "../data/metal_pka_example"
+    proton_model: "../ckpt/pka_ver26_best.pkl"
+
+
+metal_ver2:
+  paths:
+    output_dir: "../output/metal_ver2"
+  model:
+    version: "metal_ver2"
+    output_size: 1
+    num_features: 66
+    hidden_size: 384
+    dropout: 0.0
+    depth: 4
+    heads: 8
+    max_ligands: 3
+    metal_emb_dim: 8
+
+  training:
+    num_epochs: 100
+    batch_size: 32
+    lr: 0.00003  # 3e-5
+    weight_decay: 0.00005  # 5e-5
+    anneal_rate: 0.9
+    huber_beta: 0.5
+    reg_weight: 5.0
+    seed: 33
+
+  data:
+    metal_csv: "../data/pre_metal_t15_T25_I0.1_E3_m10_clean.csv"
+    dataloader_path: "../data/dataloader.pt"
+    data_dir: "../data/metal_pka_example"
+    proton_model: "../ckpt/pka_ver26_best.pkl"
+
+metal_test:
+  paths:
+    output_dir: "../output/metal_test"
+  model:
+    version: "metal_test"
+    output_size: 1
+    num_features: 66
+    hidden_size: 384
+    dropout: 0.0
+    depth: 4
+    heads: 8
+    max_ligands: 3
+    metal_emb_dim: 8
+
+  training:
+    num_epochs: 2
+    batch_size: 32
+    lr: 0.000005
+    weight_decay: 0.00005  # 5e-5
+    anneal_rate: 0.9
+    huber_beta: 0.5
+    reg_weight: 5.0
+    seed: 33
+
+  data:
+    metal_csv: "../data/pre_metal_t15_T25_I0.1_E3_m10_clean.csv"
+    dataloader_path: "../data/dataloader.pt"
+    data_dir: "../data/metal_pka_example"
+    proton_model: "../ckpt/pka_ver26_best.pkl"
+
+

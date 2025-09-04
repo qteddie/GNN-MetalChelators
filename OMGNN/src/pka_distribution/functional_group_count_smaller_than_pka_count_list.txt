@@ -1,0 +1,14 @@
+Oc1cccc(ON=O)c1
+CC(=NO)c1ccccn1
+Cc1cccc(C=NO)n1
+ON=Cc1ccccn1
+OC(=O)C1=CC(=O)NC(=O)N1
+OC(=O)C1=C(Br)C(=O)NC(=O)N1
+OC(=O)C1=C(I)C(=O)NC(=O)N1
+Nc1n[nH]cn1
+OC(=O)C1=CNC(=O)NC1=O
+OC(=O)CN=C[P](O)(=O)C=NCC(O)=O
+NC([C@H](O)c1ccccc1)C(O)=O
+[Na+].[Na+].[Na+].Cc1cc(cc(C([O-])=O)c1O)C(=C/2C=C(C)C(=O)C(=C2)C([O-])=O)\c3ccccc3[S]([O-])(=O)=O
+NO[P](O)(=O)C(c1ccccc1)[P](O)(O)=O
+CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN

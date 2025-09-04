@@ -1,0 +1,4 @@
+smiles,pka_values,pka_matrix,original_metal_ion
+C#N,[20.45],"[(1, 20.45)]",Ag+
+C(CN(Cc1ccccn1)Cc2ccccn2)N(Cc3ccccn3)Cc4ccccn4,[11.06],"[(2, 11.06)]",Ag+
+C1CNCCSCCOCCSCCN1,[9.9],"[(2, 9.9)]",Ag+

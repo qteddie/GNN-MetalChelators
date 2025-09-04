@@ -1,0 +1,10 @@
+version,input,input_organic,reaction,type,test_size,num_features,output_size,dropout,batch_size,num_epochs,unique_name,model_path,save_path,mode,anneal_rate,lr,pretrain,split_redox
+pretrain_OMGNN,../data/redox_multi_test.csv,../data/redox_train_ligcom.csv,reduction,multiple,0.2,153,1, 0.3, 1, 300,pretrain_OMGNN,../models/,../results/,single, 0.9, 0.001,True,True
+rmduplicate_pretrain_OMGNN,../data/rmduplicates_redox_train_ligcom.csv,../data/rmduplicates_redox_train_ligcom.csv,reduction,multiple,0.2,153,1, 0.3, 1, 500,pretrain_OMGNN,../models/,../results/,single, 0.9, 0.001,True,True
+IP_OMGNN,../data/organic_nist_ip.csv,../data/organic_nist_ip.csv,reduction,multiple,0.2,153,1,0.3,1,500,pretrain_OMGNN,../models/,../results/,single, 0.9, 0.001,True,True
+pretrain_OMGNN_gas,../data/organic_nist_ip.csv,../data/organic_nist_ip.csv,reduction,multiple,0.2,153,1, 0.3, 1, 500,pretrain_OMGNN,../models/,../results/,single, 0.9, 0.001,True,True
+IP_redox_OMGNN,../data/organic_ip_redox.csv,../data/organic_ip_redox.csv,reduction,multiple,0.2,153,1,0.3,1,500,pretrain_OMGNN,../models/,../results/,single, 0.9, 0.001,True,True
+OMGNN,../data/redox_multi_test.csv,../data/redox_train_ligcom.csv,,multiple,0.2,153,1, 0.3, 1,500,reg_auto_cla_each_num,../models/,../results/,two_models, 0.9, 0.001,True,False
+OMGNN1_RNN,../data/redox_multi_test.csv,../data/redox_train_ligcom.csv,,multiple,0.2,153,1, 0.3, 1,100,reg_auto_cla_each_num,../models/,../results/,two_models, 0.9, 0.001,True,False
+OMGNN_final_v2,../data/redox_multi_test.csv,../data/redox_train_ligcom.csv,,multiple,0.2,153,1, 0.3, 1,500,reg_auto_cla_each_num,../models/,../results/,two_models, 0.9, 0.001,True,False
+GNN13_RNN_OMGNN,../data/redox_multi_test.csv,../data/redox_train_ligcom.csv,,multiple,0.2,153,1, 0.3, 1,500,reg_auto_cla_each_num,../models/,../results/,two_models, 0.9, 0.001,True,False

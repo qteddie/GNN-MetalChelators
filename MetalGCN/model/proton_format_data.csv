@@ -1,0 +1,21 @@
+smiles,pka_values,pka_matrix,original_metal_ion
+C#N,[20.45],"[(1, 20.45)]",Ag+
+C(CN(Cc1ccccn1)Cc2ccccn2)N(Cc3ccccn3)Cc4ccccn4,[11.06],"[(2, 11.06)]",Ag+
+C1CNCCSCCOCCSCCN1,[9.9],"[(2, 9.9)]",Ag+
+C1COCCOCCSCCSCCOCCO1,[3.05],"[(2, 3.05)]",Ag+
+C1COCCSCCOCCOCCSCCO1,[5.27],"[(2, 5.27)]",Ag+
+C1N2CN3CN1CN(C2)C3,[3.49],"[(1, 3.49)]",Ag+
+CC(C)=C,[1.77],"[(0, 1.77)]",Ag+
+CC(O)=S,[4.07],"[(2, 4.07)]",Ag+
+CCCCC(C(O)=O)C(O)=O,[0.74],"[(6, 0.74)]",Ag+
+CCCCCCCCCCCCCC(=O)O[C@@H]1[C@@H](C)[C@@]2(O)[C@@H](C=C(CO)C[C@@]3(O)[C@H]2C=C(C)C3=O)[C@@H]4C(C)(C)[C@]14OC(C)=O,[7.71],"[(14, 7.71)]",Ag+
+CCCCCCSc1ccc(cc1)C(O)=O,[2.84],"[(6, 2.84)]",Ag+
+CCCCCSc1ccc(cc1)C(O)=O,[2.84],"[(5, 2.84)]",Ag+
+CCCCSc1ccc(cc1)C(O)=O,[2.82],"[(4, 2.82)]",Ag+
+CCCSc1ccc(cc1)C(O)=O,[2.82],"[(3, 2.82)]",Ag+
+CCSc1ccc(cc1)C(O)=O,[2.82],"[(2, 2.82)]",Ag+
+CN1CCSCCN(C)CCSCC1,[11.15],"[(1, 11.15)]",Ag+
+CNCCSCCOCCSCCNC,[7.32],"[(1, 7.32)]",Ag+
+COc1ccccc1SCC(O)=O,[2.95],"[(1, 2.95)]",Ag+
+CSCC[C@H](N)C(=O)N[C@H](CCSC)C(O)=O,[5.71],"[(1, 5.71)]",Ag+
+CSc1ccc(cc1)C(O)=O,[2.79],"[(1, 2.79)]",Ag+
