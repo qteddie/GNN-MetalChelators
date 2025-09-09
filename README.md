@@ -11,18 +11,19 @@ The NIST 46 dataset comprises extensive data on proton-ligand binding and metal-
 - Graph Neural Networks  enable the model to effectively learn chemical structural information.
 
 ![](img/pKa_label1.png)
+
 Using SMARTS-based5 rules to label functional groups.
 
 ## Performance
 ### pKa model
 #### parity plot
-<img src="img/pka_ver26_parity_plot.png" alt="parity plot" width="400">
+<img src="img/pka_ver26_parity_plot.png" width="500">
 
 #### distribution plot
-<img src="img/pka_combined_pka_ver26.png" alt="parity plot" width="400">
+<img src="img/pka_combined_pka_ver26.png" width="500">
 
 ### Binding constant model
-![](img/metal_ver14_parity_plot.png)
-![](img/metal_distribution.png)
-![](img/metal_parity_train_by_metal.png)
-![](img/metal_parity_test_by_metal.png)
+<img src="img/metal_ver14_parity_plot.png" width="500">
+<img src="img/metal_distribution.png" width="500">
+<img src="img/metal_parity_train_by_metal.png" width="500">
+<img src="img/metal_parity_test_by_metal.png" width="500">
