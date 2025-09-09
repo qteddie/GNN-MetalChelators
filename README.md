@@ -1,6 +1,6 @@
 # GNN-MetalChelators
 Developed pKa and binding constant prediction models using transfer learning to generate fractional composition diagrams and evaluate metal selectivity
-![](img/header.png)
+![](img/header2.png)
 # Database
 ==NIST 46 Database==
 ![](img/NIST.png)
