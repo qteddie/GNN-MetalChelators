@@ -4,6 +4,7 @@ Developed pKa and binding constant prediction models using transfer learning to 
 
 ## Overview
 ![](img/overview.png)
+>ref:OMRON Corporation. Front-End Semiconductor Manufacturing. OMRON Industrial Automation. https://industrial.omron.eu/en/industries/semiconductor-manufacturing/front-end-semiconductor-manufacturing (accessed July 31, 2025)
 
 ## Database
 ### NIST 46 Database
