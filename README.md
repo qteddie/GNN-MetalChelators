@@ -16,9 +16,11 @@ Using SMARTS-based5 rules to label functional groups.
 ## Performance
 ### pKa model
 #### parity plot
-![](img/pka_ver26_parity_plot.png)
+<img src="img/pka_ver26_parity_plot.png" alt="parity plot" width="400">
+
 #### distribution plot
-![](img/pka_combined_pka_ver26.png)
+<img src="img/pka_combined_pka_ver26.png" alt="parity plot" width="400">
+
 ### Binding constant model
 ![](img/metal_ver14_parity_plot.png)
 ![](img/metal_distribution.png)
