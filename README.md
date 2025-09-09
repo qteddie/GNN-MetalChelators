@@ -1,6 +1,10 @@
 # GNN-MetalChelators
 Developed pKa and binding constant prediction models using transfer learning to generate fractional composition diagrams and evaluate metal selectivity
 ![](img/header2.png)
+
+## Overview
+![](img/overview.png)
+
 ## Database
 ### NIST 46 Database
 ![](img/NIST1.png)
@@ -13,6 +17,10 @@ The NIST 46 dataset comprises extensive data on proton-ligand binding and metal-
 ![](img/pKa_label1.png)
 
 Using SMARTS-based5 rules to label functional groups.
+
+## Model Architecture
+
+![](img/architecture.png)
 
 ## Performance
 ### pKa model
@@ -35,3 +43,9 @@ Test RMSE = 1.61, R^2 = 0.87
   <img src="img/metal_parity_train_by_metal.png" alt="train parity" width="45%">
   <img src="img/metal_parity_test_by_metal.png"  alt="test parity"  width="45%">
 </p>
+
+### Accuracy  
+![](img/acc.png)
+
+### Improvement
+
