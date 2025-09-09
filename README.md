@@ -19,12 +19,7 @@ Using SMARTS-based5 rules to label functional groups.
 #### parity plot
 Test RMSE = 0.69, R^2 = 0.94
 <p align="center">
-    <img src="img/pka_ver26_parity_plot.png" width="500">
-</p>
-
-#### Distribution plot
-<p align="center">
-    <img src="img/pka_combined_pka_ver26.png" width="500">
+    <img src="img/pka.png">
 </p>
 
 ---
@@ -32,12 +27,7 @@ Test RMSE = 0.69, R^2 = 0.94
 #### parity plot
 Test RMSE = 1.61, R^2 = 0.87
 <p align="center">
-    <img src="img/pka.png">
-</p>
-
-#### Distribution plot
-<p align="center">
-    <img src="img/metal_distribution.png" width="500">
+    <img src="img/metal.png">
 </p>
 
 #### Parity Plot with Metal-Ions Distinguished by Color
