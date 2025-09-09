@@ -20,12 +20,22 @@ Using SMARTS-based5 rules to label functional groups.
 <p align="center">
     <img src="img/pka_ver26_parity_plot.png" width="500">
 </p>
+
 #### distribution plot
-<img src="img/pka_combined_pka_ver26.png" width="500">
+<p align="center">
+    <img src="img/pka_combined_pka_ver26.png" width="500">
+</p>
 
 ---
 ### Binding constant model
-<img src="img/metal_ver14_parity_plot.png" width="500">
-<img src="img/metal_distribution.png" width="500">
-<img src="img/metal_parity_train_by_metal.png" width="500">
-<img src="img/metal_parity_test_by_metal.png" width="500">
+<p align="center">
+    <img src="img/metal_ver14_parity_plot.png" width="500">
+</p>
+<p align="center">
+    <img src="img/metal_distribution.png" width="500">
+</p>
+
+<p align="center">
+  <img src="img/metal_parity_train_by_metal.png" alt="train parity" width="45%">
+  <img src="img/metal_parity_test_by_metal.png"  alt="test parity"  width="45%">
+</p>
