@@ -10,7 +10,7 @@ The NIST 46 dataset comprises extensive data on proton-ligand binding and metal-
 - Progress of vectorization of molecule.
 - Graph Neural Networks  enable the model to effectively learn chemical structural information.
 
-![](img/pka_label1.png.png)
+![](img/pKa_label1.png)
 Using SMARTS-based5 rules to label functional groups.
 
 ## Performance
