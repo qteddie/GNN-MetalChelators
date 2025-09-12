@@ -40,8 +40,8 @@ Test RMSE = 1.61, R^2 = 0.87
 
 #### Parity Plot with Metal-Ions Distinguished by Color
 <p align="center">
-  <img src="img/metal_parity_train_by_metal.png" alt="train parity">
-  <img src="img/metal_parity_test_by_metal.png"  alt="test parity" >
+  <img src="img/metal_parity_train_by_metal.png" alt="train parity" width="50%">
+  <img src="img/metal_parity_test_by_metal.png"  alt="test parity" width="50%">
 </p>
 
 #### Model Performance for Each Metal Ion
